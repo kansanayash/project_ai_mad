@@ -121,7 +121,6 @@ public class MainActivity extends AppCompatActivity {
             button3.setText(correctanswer-1 +"");
             button4.setText(correctanswer +"");
         }
-      // Your code here, to diplay correct and incorrect options on the buttons
 
         if(matchCounter==3){    // if three matches are completed updatee the perfomrance in sharedpreferences
 
